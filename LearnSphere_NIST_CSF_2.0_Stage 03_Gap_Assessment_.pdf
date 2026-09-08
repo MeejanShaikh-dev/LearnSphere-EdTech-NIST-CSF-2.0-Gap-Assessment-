@@ -1,0 +1,4773 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 10
+/Kids [ 4 0 R 10 0 R 14 0 R 18 0 R 22 0 R 26 0 R 30 0 R 34 0 R 38 0 R 42 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 4265
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.070588 .207843 .356863 rg
+n 0 799.3701 595.2756 42.51969 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 42.51969 822.0472 Tm (LEARNSPHERE EDTECH | INFORMATION SECURITY MANAGEMENT SYSTEM \(ISMS\)) Tj T* ET
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 461.7629 822.0472 Tm (CONTROLLED DOCUMENT) Tj T* ET
+.917647 .952941 .972549 rg
+n 0 785.1969 595.2756 14.17323 re f*
+.070588 .207843 .356863 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 790.2992 Tm (DOCUMENT ID: LS-NIST-001 | VERSION: 1.0) Tj T* ET
+BT 1 0 0 1 465.7144 790.2992 Tm (INTERNAL \226 CONFIDENTIAL) Tj T* ET
+.796078 .835294 .870588 RG
+n 42.51969 36.85039 m 552.7559 36.85039 l S
+.372549 .419608 .462745 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 24.09449 Tm (LearnSphere EdTech | NIST CSF 2.0 Gap Assessment) Tj T* ET
+BT 1 0 0 1 532.1574 24.09449 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 668.6457 cm
+Q
+q
+1 0 0 1 48.51969 639.6457 cm
+q
+.070588 .207843 .356863 rg
+BT 1 0 0 1 0 5 Tm /F2 24 Tf 29 TL 105.7781 0 Td (LEARNSPHERE EDTECH) Tj T* -105.7781 0 Td ET
+Q
+Q
+q
+1 0 0 1 48.51969 612.6457 cm
+q
+.372549 .419608 .462745 rg
+BT 1 0 0 1 0 5 Tm /F1 12 Tf 17 TL 113.7701 0 Td (NIST CYBERSECURITY FRAMEWORK \(CSF\) 2.0) Tj T* -113.7701 0 Td ET
+Q
+Q
+q
+1 0 0 1 48.51969 598.4724 cm
+Q
+q
+1 0 0 1 48.51969 569.4724 cm
+q
+BT 1 0 0 1 0 5 Tm 6.39411 0 Td 29 TL /F2 24 Tf .070588 .207843 .356863 rg (Gap Assessment & Remediation Roadmap) Tj T* -6.39411 0 Td ET
+Q
+Q
+q
+1 0 0 1 48.51969 542.4724 cm
+q
+.372549 .419608 .462745 rg
+BT 1 0 0 1 0 5 Tm /F1 12 Tf 17 TL 108.4061 0 Td (Existing / Ad Hoc Cybersecurity Posture Assessment) Tj T* -108.4061 0 Td ET
+Q
+Q
+q
+1 0 0 1 48.51969 491.4488 cm
+Q
+q
+1 0 0 1 48.51969 405.6488 cm
+q
+.070588 .207843 .356863 rg
+n 0 85.8 425.1969 -17 re f*
+.070588 .207843 .356863 rg
+n 0 85.8 425.1969 -17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 72.8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (DOCUMENT ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131.5591 72.8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (LS-NIST-001) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 55.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (VERSION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131.5591 55.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (1.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 38.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (ASSESSMENT DATE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131.5591 38.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (04-Sep-2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 21.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (FRAMEWORK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131.5591 21.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (NIST Cybersecurity Framework 2.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (ORGANIZATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131.5591 4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (LearnSphere EdTech) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 85.8 m 425.1969 85.8 l S
+n 0 0 m 425.1969 0 l S
+n 0 0 m 0 85.8 l S
+n 425.1969 0 m 425.1969 85.8 l S
+n 0 68.8 m 425.1969 68.8 l S
+n 0 51.6 m 425.1969 51.6 l S
+n 0 34.4 m 425.1969 34.4 l S
+n 0 17.2 m 425.1969 17.2 l S
+n 127.5591 0 m 127.5591 85.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 348.9559 cm
+Q
+q
+1 0 0 1 48.51969 326.9559 cm
+q
+.121569 .372549 .545098 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Prepared By) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 309.4559 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 3.7 Tm /F1 8.8 Tf 12.5 TL (Mr. Meejan Shaikh | GRC Analyst) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 291.9559 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 3.7 Tm /F1 8.8 Tf 12.5 TL (Information Security Management Team) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 48.18898 re
+f*
+0.796078 0.835294 0.870588 RG
+0.5 w
+n
+42.51969 38.26772 m
+552.7559 38.26772 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 42.51969 23.52756 Tm
+(Mr\056 Meejan Shaikh \174 GRC Analyst \174 Information Security Management Team) Tj
+T*
+ET
+0.372549 0.419608 0.462745 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 368.0129 23.52756 Tm
+(LearnSphere EdTech \174 NIST CSF 2\0560 Gap Assessment \174 Page 1) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 12 0 R
+/F2 8 0 R
+/F2-0 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 13229
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.070588 .207843 .356863 rg
+n 0 799.3701 595.2756 42.51969 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 42.51969 822.0472 Tm (LEARNSPHERE EDTECH | INFORMATION SECURITY MANAGEMENT SYSTEM \(ISMS\)) Tj T* ET
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 461.7629 822.0472 Tm (CONTROLLED DOCUMENT) Tj T* ET
+.917647 .952941 .972549 rg
+n 0 785.1969 595.2756 14.17323 re f*
+.070588 .207843 .356863 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 790.2992 Tm (DOCUMENT ID: LS-NIST-001 | VERSION: 1.0) Tj T* ET
+BT 1 0 0 1 465.7144 790.2992 Tm (INTERNAL \226 CONFIDENTIAL) Tj T* ET
+.796078 .835294 .870588 RG
+n 42.51969 36.85039 m 552.7559 36.85039 l S
+.372549 .419608 .462745 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 24.09449 Tm (LearnSphere EdTech | NIST CSF 2.0 Gap Assessment) Tj T* ET
+BT 1 0 0 1 532.1574 24.09449 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 739.3543 cm
+q
+.070588 .207843 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (1. Document Control) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 627.3543 cm
+q
+.070588 .207843 .356863 rg
+n 0 103 425.1969 -17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 90 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (FIELD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 140.063 90 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (DETAILS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 72.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (Document ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 140.063 72.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (LS-NIST-001) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 55.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (Document Title) Tj T* ET
+Q
+Q
+q
+1 0 0 1 140.063 55.6 cm
+q
+BT 1 0 0 1 0 2.2 Tm 9.2 TL /F1 7 Tf .12549 .14902 .176471 rg (NIST CSF 2.0 Gap Assessment & Remediation Roadmap) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 38.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (Organization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 140.063 38.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (LearnSphere EdTech) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 21.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (Assessment Basis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 140.063 21.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Existing/ad hoc cybersecurity practices; not a blank-slate assessment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (Assessment Method) Tj T* ET
+Q
+Q
+q
+1 0 0 1 140.063 4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Current vs Target profile-style assessment supported by an internal 0\2264 maturity scale.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 103 m 425.1969 103 l S
+n 0 0 m 425.1969 0 l S
+n 0 0 m 0 103 l S
+n 425.1969 0 m 425.1969 103 l S
+n 0 86 m 425.1969 86 l S
+n 0 68.8 m 425.1969 68.8 l S
+n 0 51.6 m 425.1969 51.6 l S
+n 0 34.4 m 425.1969 34.4 l S
+n 0 17.2 m 425.1969 17.2 l S
+n 136.063 0 m 136.063 103 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 605.3543 cm
+q
+.121569 .372549 .545098 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Approval) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 531.7543 cm
+q
+.070588 .207843 .356863 rg
+n 0 68.6 425.1969 -17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 55.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (ROLE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.87402 55.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (NAME / DESIGNATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 276.126 55.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (SIGNATURE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 383.8425 55.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (DATE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 38.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (Prepared By) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.87402 38.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Mr. Meejan Shaikh \226 GRC Analyst) Tj T* ET
+Q
+Q
+q
+1 0 0 1 276.126 38.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (________________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 383.8425 38.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (04/09/2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 21.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (Reviewed By) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.87402 21.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Information Security Manager) Tj T* ET
+Q
+Q
+q
+1 0 0 1 276.126 21.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (________________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 383.8425 21.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (04/09/2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (Approved By) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.87402 4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (CISO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 276.126 4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (________________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 383.8425 4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (04/09/2026) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 68.6 m 425.1969 68.6 l S
+n 0 0 m 425.1969 0 l S
+n 0 0 m 0 68.6 l S
+n 425.1969 0 m 425.1969 68.6 l S
+n 0 51.6 m 425.1969 51.6 l S
+n 0 34.4 m 425.1969 34.4 l S
+n 0 17.2 m 425.1969 17.2 l S
+n 87.87402 0 m 87.87402 68.6 l S
+n 272.126 0 m 272.126 68.6 l S
+n 379.8425 0 m 379.8425 68.6 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 511.7543 cm
+q
+.070588 .207843 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (2. Executive Summary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 465.2543 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 28.7 Tm /F1 8.8 Tf 12.5 TL -0.009532 Tw (This assessment evaluates LearnSphere EdTech\222s existing cybersecurity posture against relevant outcomes in NIST CSF 2.0. It) Tj T* 0 Tw (assumes security practices already exist in an ad hoc form and assesses how consistently those practices are governed,) Tj T* (implemented, evidenced, measured, and improved.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 435.2543 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 16.2 Tm /F1 8.8 Tf 12.5 TL (The assessment focuses on children\222s data, parental-consent governance, data minimization, and access controls over student) Tj T* (records. Protect is the highest priority because student-record access governance requires the strongest target state.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 310.0543 cm
+q
+.070588 .207843 .356863 rg
+n 0 120.2 453.5433 -17 re f*
+.956863 .8 .8 rg
+n 0 51.6 453.5433 -17.2 re f*
+1 .94902 .8 rg
+n 0 34.4 453.5433 -17.2 re f*
+1 .94902 .8 rg
+n 0 17.2 453.5433 -17.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 107.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (FUNCTION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 125.8898 107.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (CURRENT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.252 107.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (TARGET) Tj T* ET
+Q
+Q
+q
+1 0 0 1 250.6142 107.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (GAP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 312.9764 107.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (PRIORITY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 90 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (Govern \(GV\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 125.8898 90 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (1.75) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.252 90 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (3.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 250.6142 90 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (1.25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 312.9764 90 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 72.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (Identify \(ID\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 125.8898 72.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (1.75) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.252 72.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (3.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 250.6142 72.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (1.25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 312.9764 72.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 55.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (Protect \(PR\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 125.8898 55.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (1.75) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.252 55.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (3.25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 250.6142 55.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (1.50) Tj T* ET
+Q
+Q
+q
+1 0 0 1 312.9764 55.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Critical) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 38.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (Detect \(DE\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 125.8898 38.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (1.75) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.252 38.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (3.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 250.6142 38.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (1.25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 312.9764 38.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 21.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (Respond \(RS\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 125.8898 21.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (2.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.252 21.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (3.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 250.6142 21.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (1.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 312.9764 21.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Medium-High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (Recover \(RC\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 125.8898 4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (1.75) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.252 4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (3.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 250.6142 4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (1.25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 312.9764 4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Medium) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 120.2 m 453.5433 120.2 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 120.2 l S
+n 453.5433 0 m 453.5433 120.2 l S
+n 0 103.2 m 453.5433 103.2 l S
+n 0 86 m 453.5433 86 l S
+n 0 68.8 m 453.5433 68.8 l S
+n 0 51.6 m 453.5433 51.6 l S
+n 0 34.4 m 453.5433 34.4 l S
+n 0 17.2 m 453.5433 17.2 l S
+n 121.8898 0 m 121.8898 120.2 l S
+n 184.252 0 m 184.252 120.2 l S
+n 246.6142 0 m 246.6142 120.2 l S
+n 308.9764 0 m 308.9764 120.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 297.5543 cm
+q
+BT 1 0 0 1 0 3.7 Tm 12.5 TL /F2 8.8 Tf .12549 .14902 .176471 rg (Overall current maturity:) Tj /F1 8.8 Tf ( 1.79 / 4.00  ) Tj (  ) Tj /F2 8.8 Tf (Target:) Tj /F1 8.8 Tf ( 3.04 / 4.00  ) Tj (  ) Tj /F2 8.8 Tf (Gap:) Tj /F1 8.8 Tf ( 1.25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 272.5543 cm
+q
+.070588 .207843 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (3. Assessment Methodology) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 226.0543 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 28.7 Tm /F1 8.8 Tf 12.5 TL (NIST CSF 2.0 is outcome-based rather than a conventional pass/fail checklist. This assessment uses selected) Tj T* (Categories/Subcategories to build a Current Profile view and compare it with a Target Profile. The internal 0\2264 scale is a project) Tj T* (scoring convention, not an official NIST maturity scale.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 183.5543 cm
+q
+BT 1 0 0 1 0 28.7 Tm 12.5 TL /F2 8.8 Tf .12549 .14902 .176471 rg (0) Tj /F1 8.8 Tf ( Not Performed \227 no credible evidence.   ) Tj /F2 8.8 Tf (1) Tj /F1 8.8 Tf ( Ad Hoc \227 inconsistent or reactive.   ) Tj /F2 8.8 Tf (2) Tj /F1 8.8 Tf ( Repeatable \227 some consistency, but) Tj T* (incomplete documentation/coverage/measurement.   ) Tj /F2 8.8 Tf (3) Tj /F1 8.8 Tf ( Defined \227 documented, assigned, consistently implemented.   ) Tj /F2 8.8 Tf (4) Tj /F1 8.8 Tf  T* (Managed/Optimized \227 measured, reviewed, and continuously improved.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 141.0543 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 28.7 Tm /F1 8.8 Tf 12.5 TL (Assessment assumptions: LearnSphere operates a cloud-hosted LMS primarily on AWS and processes sensitive personal) Tj T* (information for students, teachers, school administrators, and employees. Existing IAM, logging, backup, endpoint,) Tj T* (application-security, and incident-response practices are assumed to exist but not to be uniformly mature.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 48.18898 re
+f*
+0.796078 0.835294 0.870588 RG
+0.5 w
+n
+42.51969 38.26772 m
+552.7559 38.26772 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 42.51969 23.52756 Tm
+(Mr\056 Meejan Shaikh \174 GRC Analyst \174 Information Security Management Team) Tj
+T*
+ET
+0.372549 0.419608 0.462745 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 368.0129 23.52756 Tm
+(LearnSphere EdTech \174 NIST CSF 2\0560 Gap Assessment \174 Page 2) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/Contents 15 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 16 0 R
+/F2 8 0 R
+/F2-0 17 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 8005
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.070588 .207843 .356863 rg
+n 0 799.3701 595.2756 42.51969 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 42.51969 822.0472 Tm (LEARNSPHERE EDTECH | INFORMATION SECURITY MANAGEMENT SYSTEM \(ISMS\)) Tj T* ET
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 461.7629 822.0472 Tm (CONTROLLED DOCUMENT) Tj T* ET
+.917647 .952941 .972549 rg
+n 0 785.1969 595.2756 14.17323 re f*
+.070588 .207843 .356863 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 790.2992 Tm (DOCUMENT ID: LS-NIST-001 | VERSION: 1.0) Tj T* ET
+BT 1 0 0 1 465.7144 790.2992 Tm (INTERNAL \226 CONFIDENTIAL) Tj T* ET
+.796078 .835294 .870588 RG
+n 42.51969 36.85039 m 552.7559 36.85039 l S
+.372549 .419608 .462745 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 24.09449 Tm (LearnSphere EdTech | NIST CSF 2.0 Gap Assessment) Tj T* ET
+BT 1 0 0 1 532.1574 24.09449 Tm (Page 3) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 739.3543 cm
+q
+.070588 .207843 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (4. Govern \(GV\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 28.34646 624.9543 cm
+q
+.070588 .207843 .356863 rg
+n 0 105.4 538.5827 -17 re f*
+.956863 .8 .8 rg
+n 467.7165 88.4 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 92.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (GV.OC-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 92.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 92.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 92.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 2.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 66 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (GV.OC-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 20.6 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Legal/regulatory and privacy obligations are recognized, but children\222s-data and parental-consent requirements are not consistently translated into documented operational) Tj T* (requirements.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Create a children\222s-data requirements register mapped to owners, processes, evidence and review cadence.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 105.4 m 538.5827 105.4 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 105.4 l S
+n 538.5827 0 m 538.5827 105.4 l S
+n 0 88.4 m 538.5827 88.4 l S
+n 0 62 m 538.5827 62 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 88.4 m 325.9843 105.4 l S
+n 396.8504 88.4 m 396.8504 105.4 l S
+n 467.7165 88.4 m 467.7165 105.4 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 617.8677 cm
+Q
+q
+1 0 0 1 28.34646 521.6677 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+1 .94902 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (GV.RM-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 1.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (GV.RM-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Risk assessment exists, but product or data-processing changes do not consistently trigger a structured cybersecurity/privacy review.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Integrate security and privacy risk review into product changes and new data processing.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 514.5811 cm
+Q
+q
+1 0 0 1 28.34646 418.3811 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+1 .94902 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (GV.RR-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 1.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (GV.RR-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Security responsibilities exist, but ownership for children\222s-data governance, consent and minimization is not consistently formalized.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Assign accountable owners and a RACI across Privacy, Product, Engineering, Security and Operations.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 411.2945 cm
+Q
+q
+1 0 0 1 28.34646 315.0945 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+1 .94902 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (GV.PO-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 1.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (GV.PO-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Existing policies provide a baseline, but children\222s-data requirements do not consistently translate into collection, consent, minimization, access and retention rules.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Update policies and standards with explicit children\222s-data requirements and exception handling.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 308.0079 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 48.18898 re
+f*
+0.796078 0.835294 0.870588 RG
+0.5 w
+n
+42.51969 38.26772 m
+552.7559 38.26772 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 42.51969 23.52756 Tm
+(Mr\056 Meejan Shaikh \174 GRC Analyst \174 Information Security Management Team) Tj
+T*
+ET
+0.372549 0.419608 0.462745 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 368.0129 23.52756 Tm
+(LearnSphere EdTech \174 NIST CSF 2\0560 Gap Assessment \174 Page 3) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 20 0 R
+/F2 8 0 R
+/F2-0 21 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 7897
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.070588 .207843 .356863 rg
+n 0 799.3701 595.2756 42.51969 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 42.51969 822.0472 Tm (LEARNSPHERE EDTECH | INFORMATION SECURITY MANAGEMENT SYSTEM \(ISMS\)) Tj T* ET
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 461.7629 822.0472 Tm (CONTROLLED DOCUMENT) Tj T* ET
+.917647 .952941 .972549 rg
+n 0 785.1969 595.2756 14.17323 re f*
+.070588 .207843 .356863 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 790.2992 Tm (DOCUMENT ID: LS-NIST-001 | VERSION: 1.0) Tj T* ET
+BT 1 0 0 1 465.7144 790.2992 Tm (INTERNAL \226 CONFIDENTIAL) Tj T* ET
+.796078 .835294 .870588 RG
+n 42.51969 36.85039 m 552.7559 36.85039 l S
+.372549 .419608 .462745 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 24.09449 Tm (LearnSphere EdTech | NIST CSF 2.0 Gap Assessment) Tj T* ET
+BT 1 0 0 1 532.1574 24.09449 Tm (Page 4) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 739.3543 cm
+q
+.070588 .207843 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (5. Identify \(ID\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 28.34646 634.1543 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+1 .94902 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (ID.AM-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 1.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (ID.AM-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Asset information exists, but systems/services are not consistently linked to the student-data types they process.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Map applications, services, databases and cloud components to data categories and business owners.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 627.0677 cm
+Q
+q
+1 0 0 1 28.34646 530.8677 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+.956863 .8 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (ID.AM-07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 2.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (ID.AM-07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Sensitive student-data inventory and metadata are incomplete, limiting visibility into where designated children\222s data is stored, processed and retained.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Create a designated student-data inventory with owner, purpose, source, location, sensitivity, retention and sharing metadata.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 523.7811 cm
+Q
+q
+1 0 0 1 28.34646 427.5811 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+1 .94902 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (ID.RA-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 1.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (ID.RA-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Risk assessment is performed, but changes to student-data processing do not consistently trigger formal cybersecurity/privacy impact assessment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Introduce a processing-change risk trigger and minimum assessment criteria.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 420.4945 cm
+Q
+q
+1 0 0 1 28.34646 324.2945 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+1 .94902 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (ID.RA-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 1.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (ID.RA-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Technical risk is considered, but data-minimization risk is not consistently captured as a distinct risk factor.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Add unnecessary collection, excessive retention and unnecessary access as explicit risk factors.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 317.2079 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 48.18898 re
+f*
+0.796078 0.835294 0.870588 RG
+0.5 w
+n
+42.51969 38.26772 m
+552.7559 38.26772 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 42.51969 23.52756 Tm
+(Mr\056 Meejan Shaikh \174 GRC Analyst \174 Information Security Management Team) Tj
+T*
+ET
+0.372549 0.419608 0.462745 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 368.0129 23.52756 Tm
+(LearnSphere EdTech \174 NIST CSF 2\0560 Gap Assessment \174 Page 4) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/Contents 23 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 24 0 R
+/F2 8 0 R
+/F2-0 25 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+23 0 obj
+<<
+/Length 8036
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.070588 .207843 .356863 rg
+n 0 799.3701 595.2756 42.51969 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 42.51969 822.0472 Tm (LEARNSPHERE EDTECH | INFORMATION SECURITY MANAGEMENT SYSTEM \(ISMS\)) Tj T* ET
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 461.7629 822.0472 Tm (CONTROLLED DOCUMENT) Tj T* ET
+.917647 .952941 .972549 rg
+n 0 785.1969 595.2756 14.17323 re f*
+.070588 .207843 .356863 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 790.2992 Tm (DOCUMENT ID: LS-NIST-001 | VERSION: 1.0) Tj T* ET
+BT 1 0 0 1 465.7144 790.2992 Tm (INTERNAL \226 CONFIDENTIAL) Tj T* ET
+.796078 .835294 .870588 RG
+n 42.51969 36.85039 m 552.7559 36.85039 l S
+.372549 .419608 .462745 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 24.09449 Tm (LearnSphere EdTech | NIST CSF 2.0 Gap Assessment) Tj T* ET
+BT 1 0 0 1 532.1574 24.09449 Tm (Page 5) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 739.3543 cm
+q
+.070588 .207843 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (6. Protect \(PR\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 28.34646 634.1543 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+.956863 .8 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (PR.AA-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 2.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (PR.AA-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (IAM controls exist, but student-record entitlement governance is not consistently mature enough to demonstrate continuous least privilege and separation of duties.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Implement quarterly student-record access certification, privileged recertification, exception tracking and evidence-linked closure.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 627.0677 cm
+Q
+q
+1 0 0 1 28.34646 530.8677 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+1 .94902 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (PR.AA-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 1.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (PR.AA-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Authentication controls exist, but requirements vary by system and access path and are not consistently standardized by student-record sensitivity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Define minimum authentication requirements by system/data risk, with stronger controls for privileged access.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 523.7811 cm
+Q
+q
+1 0 0 1 28.34646 427.5811 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+1 .94902 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (PR.DS-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 1.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (PR.DS-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Encryption and access restrictions are part of the environment, but protection is not consistently mapped across the student-data lifecycle and all repositories.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Create a student-data protection matrix covering databases, backups, endpoints, exports, logs and third parties.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 420.4945 cm
+Q
+q
+1 0 0 1 28.34646 324.2945 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+.956863 .8 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (PR.DS-10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 2.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (PR.DS-10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Controls exist around application/database access, but retention and disposal are not consistently enforced to reduce unnecessary exposure.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Define retention/disposal rules by data category and implement evidence-backed deletion controls.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 317.2079 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 48.18898 re
+f*
+0.796078 0.835294 0.870588 RG
+0.5 w
+n
+42.51969 38.26772 m
+552.7559 38.26772 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 42.51969 23.52756 Tm
+(Mr\056 Meejan Shaikh \174 GRC Analyst \174 Information Security Management Team) Tj
+T*
+ET
+0.372549 0.419608 0.462745 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 368.0129 23.52756 Tm
+(LearnSphere EdTech \174 NIST CSF 2\0560 Gap Assessment \174 Page 5) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+24 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+25 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+26 0 obj
+<<
+/Contents 27 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 28 0 R
+/F2 8 0 R
+/F2-0 29 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+27 0 obj
+<<
+/Length 7759
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.070588 .207843 .356863 rg
+n 0 799.3701 595.2756 42.51969 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 42.51969 822.0472 Tm (LEARNSPHERE EDTECH | INFORMATION SECURITY MANAGEMENT SYSTEM \(ISMS\)) Tj T* ET
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 461.7629 822.0472 Tm (CONTROLLED DOCUMENT) Tj T* ET
+.917647 .952941 .972549 rg
+n 0 785.1969 595.2756 14.17323 re f*
+.070588 .207843 .356863 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 790.2992 Tm (DOCUMENT ID: LS-NIST-001 | VERSION: 1.0) Tj T* ET
+BT 1 0 0 1 465.7144 790.2992 Tm (INTERNAL \226 CONFIDENTIAL) Tj T* ET
+.796078 .835294 .870588 RG
+n 42.51969 36.85039 m 552.7559 36.85039 l S
+.372549 .419608 .462745 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 24.09449 Tm (LearnSphere EdTech | NIST CSF 2.0 Gap Assessment) Tj T* ET
+BT 1 0 0 1 532.1574 24.09449 Tm (Page 6) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 739.3543 cm
+q
+.070588 .207843 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (7. Detect \(DE\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 28.34646 634.1543 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+1 .94902 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (DE.CM-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 1.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (DE.CM-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Security monitoring is present, but coverage for critical assets and student-data environments is not consistently measured.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Define monitoring coverage KPIs and maintain an inventory-to-log-source mapping.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 627.0677 cm
+Q
+q
+1 0 0 1 28.34646 530.8677 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+1 .94902 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (DE.CM-06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 1.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (DE.CM-06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Third-party expectations exist, but monitoring evidence and escalation expectations are not consistently defined for all critical providers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Define provider monitoring, evidence and escalation requirements.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 523.7811 cm
+Q
+q
+1 0 0 1 28.34646 427.5811 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+1 .94902 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (DE.AE-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 1.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (DE.AE-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Alert investigation occurs, but quality is not consistently measured through MTTD/MTTI or standardized investigation records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Introduce investigation KPIs and standard investigation records.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 420.4945 cm
+Q
+q
+1 0 0 1 28.34646 324.2945 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+.956863 .8 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (DE.AE-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 2.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (DE.AE-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Correlation between IAM events, student-record access and application activity is not consistently defined.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Develop correlation use cases for privileged access and student-record anomalies.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 317.2079 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 48.18898 re
+f*
+0.796078 0.835294 0.870588 RG
+0.5 w
+n
+42.51969 38.26772 m
+552.7559 38.26772 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 42.51969 23.52756 Tm
+(Mr\056 Meejan Shaikh \174 GRC Analyst \174 Information Security Management Team) Tj
+T*
+ET
+0.372549 0.419608 0.462745 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 368.0129 23.52756 Tm
+(LearnSphere EdTech \174 NIST CSF 2\0560 Gap Assessment \174 Page 6) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+28 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/Contents 31 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 32 0 R
+/F2 8 0 R
+/F2-0 33 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+31 0 obj
+<<
+/Length 7798
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.070588 .207843 .356863 rg
+n 0 799.3701 595.2756 42.51969 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 42.51969 822.0472 Tm (LEARNSPHERE EDTECH | INFORMATION SECURITY MANAGEMENT SYSTEM \(ISMS\)) Tj T* ET
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 461.7629 822.0472 Tm (CONTROLLED DOCUMENT) Tj T* ET
+.917647 .952941 .972549 rg
+n 0 785.1969 595.2756 14.17323 re f*
+.070588 .207843 .356863 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 790.2992 Tm (DOCUMENT ID: LS-NIST-001 | VERSION: 1.0) Tj T* ET
+BT 1 0 0 1 465.7144 790.2992 Tm (INTERNAL \226 CONFIDENTIAL) Tj T* ET
+.796078 .835294 .870588 RG
+n 42.51969 36.85039 m 552.7559 36.85039 l S
+.372549 .419608 .462745 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 24.09449 Tm (LearnSphere EdTech | NIST CSF 2.0 Gap Assessment) Tj T* ET
+BT 1 0 0 1 532.1574 24.09449 Tm (Page 7) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 739.3543 cm
+q
+.070588 .207843 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (8. Respond \(RS\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 28.34646 634.1543 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+1 .94902 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (RS.MA-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 1.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (RS.MA-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Incident handling exists, but severity and escalation do not consistently distinguish incidents involving children\222s data or student-record exposure.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Create severity criteria explicitly classifying children\222s-data incidents.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 627.0677 cm
+Q
+q
+1 0 0 1 28.34646 530.8677 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+1 .94902 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (RS.AN-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 1.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (RS.AN-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Investigation occurs, but unauthorized student-record access lacks a fully standardized evidence-analysis workflow.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Create a playbook covering IAM, application, database and access evidence.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 523.7811 cm
+Q
+q
+1 0 0 1 28.34646 427.5811 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+1 .94902 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (RS.CO-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 1.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (RS.CO-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Communication roles exist, but student-data incident escalation and privacy/customer decisions are not consistently documented end-to-end.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Define communications RACI, escalation thresholds and notification decision points.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 420.4945 cm
+Q
+q
+1 0 0 1 28.34646 324.2945 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+1 .94902 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (RS.MI-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 1.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (RS.MI-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Containment practices exist, but predefined playbooks for compromised student records are incomplete.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Develop playbooks for compromised accounts, unauthorized access and data exfiltration.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 317.2079 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 48.18898 re
+f*
+0.796078 0.835294 0.870588 RG
+0.5 w
+n
+42.51969 38.26772 m
+552.7559 38.26772 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 42.51969 23.52756 Tm
+(Mr\056 Meejan Shaikh \174 GRC Analyst \174 Information Security Management Team) Tj
+T*
+ET
+0.372549 0.419608 0.462745 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 368.0129 23.52756 Tm
+(LearnSphere EdTech \174 NIST CSF 2\0560 Gap Assessment \174 Page 7) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+32 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+33 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+34 0 obj
+<<
+/Contents 35 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 36 0 R
+/F2 8 0 R
+/F2-0 37 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+35 0 obj
+<<
+/Length 7762
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.070588 .207843 .356863 rg
+n 0 799.3701 595.2756 42.51969 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 42.51969 822.0472 Tm (LEARNSPHERE EDTECH | INFORMATION SECURITY MANAGEMENT SYSTEM \(ISMS\)) Tj T* ET
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 461.7629 822.0472 Tm (CONTROLLED DOCUMENT) Tj T* ET
+.917647 .952941 .972549 rg
+n 0 785.1969 595.2756 14.17323 re f*
+.070588 .207843 .356863 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 790.2992 Tm (DOCUMENT ID: LS-NIST-001 | VERSION: 1.0) Tj T* ET
+BT 1 0 0 1 465.7144 790.2992 Tm (INTERNAL \226 CONFIDENTIAL) Tj T* ET
+.796078 .835294 .870588 RG
+n 42.51969 36.85039 m 552.7559 36.85039 l S
+.372549 .419608 .462745 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 24.09449 Tm (LearnSphere EdTech | NIST CSF 2.0 Gap Assessment) Tj T* ET
+BT 1 0 0 1 532.1574 24.09449 Tm (Page 8) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 739.3543 cm
+q
+.070588 .207843 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (9. Recover \(RC\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 28.34646 634.1543 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+1 .94902 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (RC.RP-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 1.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (RC.RP-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Recovery capability exists, but testing is not consistently scenario-based around ransomware, database compromise or student-data loss.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Conduct documented recovery exercises using LMS/student-data scenarios.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 627.0677 cm
+Q
+q
+1 0 0 1 28.34646 530.8677 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+1 .94902 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (RC.RP-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 1.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (RC.RP-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Recovery priorities are known in part, but RTO/RPO alignment and dependency documentation are not consistently maintained.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Document dependencies, RTO/RPO, owners and test evidence.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 523.7811 cm
+Q
+q
+1 0 0 1 28.34646 427.5811 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+1 .94902 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (RC.CO-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 1.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (RC.CO-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Service-disruption communications are considered, but student/customer recovery communication requirements are not fully defined.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Establish recovery communication criteria, ownership and customer notification paths.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 420.4945 cm
+Q
+q
+1 0 0 1 28.34646 324.2945 cm
+q
+.070588 .207843 .356863 rg
+n 0 96.2 538.5827 -17 re f*
+.956863 .8 .8 rg
+n 467.7165 79.2 70.86614 17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (RC.IM-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Current 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 400.8504 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Target 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 83.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Gap 2.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 56.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (NIST outcome focus) Tj /F1 7 Tf  T* (RC.IM-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Assessment justification) Tj /F1 7 Tf  T* (Lessons learned are not systematically converted into tracked improvement actions with closure evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F2 7 Tf .12549 .14902 .176471 rg (Recommended action) Tj /F1 7 Tf  T* (Create a lessons-learned register linked to corrective actions and management review.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 96.2 m 538.5827 96.2 l S
+n 0 0 m 538.5827 0 l S
+n 0 0 m 0 96.2 l S
+n 538.5827 0 m 538.5827 96.2 l S
+n 0 79.2 m 538.5827 79.2 l S
+n 0 52.8 m 538.5827 52.8 l S
+n 0 26.4 m 538.5827 26.4 l S
+n 325.9843 79.2 m 325.9843 96.2 l S
+n 396.8504 79.2 m 396.8504 96.2 l S
+n 467.7165 79.2 m 467.7165 96.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 317.2079 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 48.18898 re
+f*
+0.796078 0.835294 0.870588 RG
+0.5 w
+n
+42.51969 38.26772 m
+552.7559 38.26772 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 42.51969 23.52756 Tm
+(Mr\056 Meejan Shaikh \174 GRC Analyst \174 Information Security Management Team) Tj
+T*
+ET
+0.372549 0.419608 0.462745 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 368.0129 23.52756 Tm
+(LearnSphere EdTech \174 NIST CSF 2\0560 Gap Assessment \174 Page 8) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+36 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+37 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+38 0 obj
+<<
+/Contents 39 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 40 0 R
+/F2 8 0 R
+/F2-0 41 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+39 0 obj
+<<
+/Length 14808
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.070588 .207843 .356863 rg
+n 0 799.3701 595.2756 42.51969 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 42.51969 822.0472 Tm (LEARNSPHERE EDTECH | INFORMATION SECURITY MANAGEMENT SYSTEM \(ISMS\)) Tj T* ET
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 461.7629 822.0472 Tm (CONTROLLED DOCUMENT) Tj T* ET
+.917647 .952941 .972549 rg
+n 0 785.1969 595.2756 14.17323 re f*
+.070588 .207843 .356863 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 790.2992 Tm (DOCUMENT ID: LS-NIST-001 | VERSION: 1.0) Tj T* ET
+BT 1 0 0 1 465.7144 790.2992 Tm (INTERNAL \226 CONFIDENTIAL) Tj T* ET
+.796078 .835294 .870588 RG
+n 42.51969 36.85039 m 552.7559 36.85039 l S
+.372549 .419608 .462745 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 24.09449 Tm (LearnSphere EdTech | NIST CSF 2.0 Gap Assessment) Tj T* ET
+BT 1 0 0 1 532.1574 24.09449 Tm (Page 9) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 739.3543 cm
+q
+.070588 .207843 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (10. Prioritized Gap Register) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 384.9543 cm
+q
+.070588 .207843 .356863 rg
+n 0 345.4 425.1969 -17 re f*
+.956863 .8 .8 rg
+n 0 204.4 425.1969 -35.6 re f*
+.956863 .8 .8 rg
+n 0 168.8 425.1969 -35.6 re f*
+1 .94902 .8 rg
+n 0 133.2 425.1969 -26.4 re f*
+1 .94902 .8 rg
+n 0 106.8 425.1969 -35.6 re f*
+1 .94902 .8 rg
+n 0 71.2 425.1969 -35.6 re f*
+1 .94902 .8 rg
+n 0 35.6 425.1969 -35.6 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 332.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.51969 332.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (GAP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.2362 332.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (FUNCTION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 210.9291 332.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (PRIORITY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 273.2913 332.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (TIMELINE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 335.6535 332.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (REMEDIATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 315.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (GAP-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.51969 315.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Children\222s-data requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.2362 315.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (GV) Tj T* ET
+Q
+Q
+q
+1 0 0 1 210.9291 315.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 273.2913 315.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (0\22630) Tj T* ET
+Q
+Q
+q
+1 0 0 1 335.6535 306 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 11.4 Tm /F1 7 Tf 9.2 TL (Requirements register with) Tj T* (owners and evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 288.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (GAP-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.51969 288.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Parental-consent governance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.2362 288.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (GV) Tj T* ET
+Q
+Q
+q
+1 0 0 1 210.9291 288.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Critical) Tj T* ET
+Q
+Q
+q
+1 0 0 1 273.2913 288.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (0\22630) Tj T* ET
+Q
+Q
+q
+1 0 0 1 335.6535 270.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 20.6 Tm /F1 7 Tf 9.2 TL (Consent requirements,) Tj T* (ownership, evidence,) Tj T* (withdrawal and review.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 253.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (GAP-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.51969 253.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Student-data inventory) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.2362 253.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 210.9291 253.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 273.2913 253.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (0\22690) Tj T* ET
+Q
+Q
+q
+1 0 0 1 335.6535 244 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 11.4 Tm /F1 7 Tf 9.2 TL (Designated-data inventory) Tj T* (and system/data mapping.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 226.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (GAP-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.51969 226.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Data minimization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.2362 226.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 210.9291 226.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 273.2913 226.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (0\22690) Tj T* ET
+Q
+Q
+q
+1 0 0 1 335.6535 208.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 20.6 Tm /F1 7 Tf 9.2 TL (Minimization checks in) Tj T* (product/data risk) Tj T* (assessments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 191.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (GAP-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.51969 191.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Student-record access reviews) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.2362 191.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (PR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 210.9291 191.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Critical) Tj T* ET
+Q
+Q
+q
+1 0 0 1 273.2913 191.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (0\22630) Tj T* ET
+Q
+Q
+q
+1 0 0 1 335.6535 172.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 20.6 Tm /F1 7 Tf 9.2 TL (Quarterly certification,) Tj T* (exceptions and closure) Tj T* (evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 155.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (GAP-06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.51969 155.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Privileged access governance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.2362 155.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (PR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 210.9291 155.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Critical) Tj T* ET
+Q
+Q
+q
+1 0 0 1 273.2913 155.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (0\22630) Tj T* ET
+Q
+Q
+q
+1 0 0 1 335.6535 137.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 20.6 Tm /F1 7 Tf 9.2 TL (Privileged recertification) Tj T* (and dormant-account) Tj T* (controls.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 120 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (GAP-07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.51969 120 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Monitoring coverage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.2362 120 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (DE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 210.9291 120 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 273.2913 120 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (31\22690) Tj T* ET
+Q
+Q
+q
+1 0 0 1 335.6535 110.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 11.4 Tm /F1 7 Tf 9.2 TL (Coverage KPIs, log-source) Tj T* (mapping and correlation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 93.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (GAP-08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.51969 84.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 11.4 Tm /F1 7 Tf 9.2 TL (Children\222s-data incident) Tj T* (playbook) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.2362 93.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (RS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 210.9291 93.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 273.2913 93.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (31\22690) Tj T* ET
+Q
+Q
+q
+1 0 0 1 335.6535 75.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 20.6 Tm /F1 7 Tf 9.2 TL (Playbooks for unauthorized) Tj T* (access and data) Tj T* (exfiltration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 58 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (GAP-09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.51969 58 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Recovery testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.2362 58 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (RC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 210.9291 58 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 273.2913 58 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (91\226180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 335.6535 39.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 20.6 Tm /F1 7 Tf 9.2 TL (Scenario-based recovery) Tj T* (tests and RTO/RPO) Tj T* (validation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 22.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (GAP-10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.51969 22.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Lessons learned) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.2362 22.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (RC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 210.9291 22.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 273.2913 22.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (91\226180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 335.6535 4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 20.6 Tm /F1 7 Tf 9.2 TL (Tracked improvement) Tj T* (actions and management) Tj T* (review.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 345.4 m 425.1969 345.4 l S
+n 0 0 m 425.1969 0 l S
+n 0 0 m 0 345.4 l S
+n 425.1969 0 m 425.1969 345.4 l S
+n 0 328.4 m 425.1969 328.4 l S
+n 0 302 m 425.1969 302 l S
+n 0 266.4 m 425.1969 266.4 l S
+n 0 240 m 425.1969 240 l S
+n 0 204.4 m 425.1969 204.4 l S
+n 0 168.8 m 425.1969 168.8 l S
+n 0 133.2 m 425.1969 133.2 l S
+n 0 106.8 m 425.1969 106.8 l S
+n 0 71.2 m 425.1969 71.2 l S
+n 0 35.6 m 425.1969 35.6 l S
+n 42.51969 0 m 42.51969 345.4 l S
+n 150.2362 0 m 150.2362 345.4 l S
+n 206.9291 0 m 206.9291 345.4 l S
+n 269.2913 0 m 269.2913 345.4 l S
+n 331.6535 0 m 331.6535 345.4 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 364.9543 cm
+q
+.070588 .207843 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (11. Remediation Roadmap) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 204.7543 cm
+q
+.070588 .207843 .356863 rg
+n 0 151.2 425.1969 -26 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 138.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (PHASE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.53543 138.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (OBJECTIVE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 168.4094 138.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (KEY DELIVERABLES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 352.6614 129.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 10.8 Tm /F2 7.2 Tf 9 TL (PRIMARY) Tj T* (OWNERSHIP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 112 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (0\22630 Days) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.53543 102.8 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F1 7 Tf .12549 .14902 .176471 rg (Governance & immediate) Tj T* (risk reduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 168.4094 84.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 29.8 Tm /F1 7 Tf 9.2 TL (Children\222s-data ownership; parental-consent) Tj T* (requirements; student-record access review; privileged) Tj T* (recertification; dormant-account checks;) Tj T* (excessive-collection review.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 352.6614 93.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 20.6 Tm /F1 7 Tf 9.2 TL (CISO / Security /) Tj T* (Privacy / Product /) Tj T* (IAM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 67.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (31\22690 Days) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.53543 58 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F1 7 Tf .12549 .14902 .176471 rg (Standardization &) Tj T* (visibility) Tj T* ET
+Q
+Q
+q
+1 0 0 1 168.4094 48.8 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 20.6 Tm /F1 7 Tf 9.2 TL (Student-data inventory; minimization standard; access) Tj T* (certification; authentication standard; incident playbook;) Tj T* (monitoring KPIs; application-to-data mapping.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 352.6614 58 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 11.4 Tm /F1 7 Tf 9.2 TL (Security / Engineering) Tj T* (/ Product / Privacy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 31.6 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (91\226180 Days) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.53543 22.4 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.2 TL /F1 7 Tf .12549 .14902 .176471 rg (Measurement &) Tj T* (resilience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 168.4094 4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 29.8 Tm /F1 7 Tf 9.2 TL (Recovery exercises; RTO/RPO mapping; security) Tj T* (metrics; product/change risk integration; third-party) Tj T* (monitoring; lessons learned; Target Profile) Tj T* (reassessment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 352.6614 13.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 20.6 Tm /F1 7 Tf 9.2 TL (Security / IT /) Tj T* (Engineering /) Tj T* (Business Owners) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 151.2 m 425.1969 151.2 l S
+n 0 0 m 425.1969 0 l S
+n 0 0 m 0 151.2 l S
+n 425.1969 0 m 425.1969 151.2 l S
+n 0 125.2 m 425.1969 125.2 l S
+n 0 80.4 m 425.1969 80.4 l S
+n 0 44.8 m 425.1969 44.8 l S
+n 76.53543 0 m 76.53543 151.2 l S
+n 164.4094 0 m 164.4094 151.2 l S
+n 348.6614 0 m 348.6614 151.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 184.7543 cm
+q
+.070588 .207843 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (12. Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 138.2543 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 28.7 Tm /F1 8.8 Tf 12.5 TL (LearnSphere EdTech is not starting from zero. The assessment indicates an existing security foundation, but several practices) Tj T* (remain at an ad hoc or repeatable stage. The most significant maturity gap is the ability to consistently govern and evidence) Tj T* (protection of children\222s data, particularly parental consent, data minimization and student-record access.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 108.2543 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 16.2 Tm /F1 8.8 Tf 12.5 TL (The roadmap prioritizes high-impact governance and access improvements within 30 days, standardization during 31\22690 days,) Tj T* (and measurable resilience and continuous improvement during 91\226180 days.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 86.25433 cm
+q
+.121569 .372549 .545098 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Approval) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 48.18898 re
+f*
+0.796078 0.835294 0.870588 RG
+0.5 w
+n
+42.51969 38.26772 m
+552.7559 38.26772 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 42.51969 23.52756 Tm
+(Mr\056 Meejan Shaikh \174 GRC Analyst \174 Information Security Management Team) Tj
+T*
+ET
+0.372549 0.419608 0.462745 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 368.0129 23.52756 Tm
+(LearnSphere EdTech \174 NIST CSF 2\0560 Gap Assessment \174 Page 9) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+40 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+41 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+42 0 obj
+<<
+/Contents 43 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 44 0 R
+/F2 8 0 R
+/F2-0 45 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+43 0 obj
+<<
+/Length 3656
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.070588 .207843 .356863 rg
+n 0 799.3701 595.2756 42.51969 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 42.51969 822.0472 Tm (LEARNSPHERE EDTECH | INFORMATION SECURITY MANAGEMENT SYSTEM \(ISMS\)) Tj T* ET
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 461.7629 822.0472 Tm (CONTROLLED DOCUMENT) Tj T* ET
+.917647 .952941 .972549 rg
+n 0 785.1969 595.2756 14.17323 re f*
+.070588 .207843 .356863 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 790.2992 Tm (DOCUMENT ID: LS-NIST-001 | VERSION: 1.0) Tj T* ET
+BT 1 0 0 1 465.7144 790.2992 Tm (INTERNAL \226 CONFIDENTIAL) Tj T* ET
+.796078 .835294 .870588 RG
+n 42.51969 36.85039 m 552.7559 36.85039 l S
+.372549 .419608 .462745 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 42.51969 24.09449 Tm (LearnSphere EdTech | NIST CSF 2.0 Gap Assessment) Tj T* ET
+BT 1 0 0 1 528.5434 24.09449 Tm (Page 10) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 690.7543 cm
+q
+.070588 .207843 .356863 rg
+n 0 68.6 425.1969 -17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 55.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (ROLE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 125.8898 55.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (NAME) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9606 55.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (SIGNATURE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 378.1732 55.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (DATE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 38.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (Prepared By) Tj T* ET
+Q
+Q
+q
+1 0 0 1 125.8898 38.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Mr. Meejan Shaikh) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9606 38.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (________________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 378.1732 38.4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (04/09/2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 21.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (Reviewed By) Tj T* ET
+Q
+Q
+q
+1 0 0 1 125.8898 21.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (Information Security Manager) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9606 21.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (________________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 378.1732 21.2 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (04/09/2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.1 Tm /F2 7.1 Tf 9.2 TL (Approved By) Tj T* ET
+Q
+Q
+q
+1 0 0 1 125.8898 4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (CISO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9606 4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (________________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 378.1732 4 cm
+q
+.12549 .14902 .176471 rg
+BT 1 0 0 1 0 2.2 Tm /F1 7 Tf 9.2 TL (04/09/2026) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .815686 .847059 RG
+.35 w
+n 0 68.6 m 425.1969 68.6 l S
+n 0 0 m 425.1969 0 l S
+n 0 0 m 0 68.6 l S
+n 425.1969 0 m 425.1969 68.6 l S
+n 0 51.6 m 425.1969 51.6 l S
+n 0 34.4 m 425.1969 34.4 l S
+n 0 17.2 m 425.1969 17.2 l S
+n 121.8898 0 m 121.8898 68.6 l S
+n 274.9606 0 m 274.9606 68.6 l S
+n 374.1732 0 m 374.1732 68.6 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 48.18898 re
+f*
+0.796078 0.835294 0.870588 RG
+0.5 w
+n
+42.51969 38.26772 m
+552.7559 38.26772 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 42.51969 23.52756 Tm
+(Mr\056 Meejan Shaikh \174 GRC Analyst \174 Information Security Management Team) Tj
+T*
+ET
+0.372549 0.419608 0.462745 rg
+BT
+/F1-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 364.3989 23.52756 Tm
+(LearnSphere EdTech \174 NIST CSF 2\0560 Gap Assessment \174 Page 10) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+44 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+45 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 46
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000177 00000 n 
+0000000226 00000 n 
+0000000481 00000 n 
+0000004798 00000 n 
+0000004905 00000 n 
+0000005012 00000 n 
+0000005124 00000 n 
+0000005236 00000 n 
+0000005495 00000 n 
+0000018778 00000 n 
+0000018886 00000 n 
+0000018999 00000 n 
+0000019258 00000 n 
+0000027316 00000 n 
+0000027424 00000 n 
+0000027537 00000 n 
+0000027796 00000 n 
+0000035746 00000 n 
+0000035854 00000 n 
+0000035967 00000 n 
+0000036226 00000 n 
+0000044315 00000 n 
+0000044423 00000 n 
+0000044536 00000 n 
+0000044795 00000 n 
+0000052607 00000 n 
+0000052715 00000 n 
+0000052828 00000 n 
+0000053087 00000 n 
+0000060938 00000 n 
+0000061046 00000 n 
+0000061159 00000 n 
+0000061418 00000 n 
+0000069233 00000 n 
+0000069341 00000 n 
+0000069454 00000 n 
+0000069713 00000 n 
+0000084575 00000 n 
+0000084683 00000 n 
+0000084796 00000 n 
+0000085055 00000 n 
+0000088764 00000 n 
+0000088872 00000 n 
+trailer
+<<
+/Size 46
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+88985
+%%EOF
+3 1 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+ /AF [47 0 R] /Names << /EmbeddedFiles << /Names [(Content Credentials) 47 0 R] >> >> >>
+endobj
+46 0 obj
+<< /Length 24282 /F << /Subtype (application/c2pa) /Length 24282 >> >>
+stream
+  ^⁄jumb   jumdc2pa  Ä  ™ 8õqc2pa   ^¥jumb   Gjumdc2ma  Ä  ™ 8õqurn:c2pa:36a28d48-44a8-4fe9-8ddf-7cb4b54d4204   §jumb   )jumdc2as  Ä  ™ 8õqc2pa.assertions   	πjumb   #jumd@À2ªäHùß*÷ÙCic2pa.icon    bfdb image/svg+xml   	wbidb<svg width="716" height="716" viewBox="0 0 716 716" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M508.749 317.399C516.777 287.314 508.991 253.884 485.389 230.282C461.788 206.681 428.36 198.895 398.273 206.923C376.231 184.928 343.39 174.956 311.148 183.596C278.906 192.234 255.45 217.292 247.36 247.361C217.291 255.451 192.233 278.91 183.595 311.149C174.957 343.391 184.927 376.232 206.924 398.274C198.896 428.359 206.683 461.789 230.284 485.391C253.885 508.992 287.313 516.779 317.401 508.75C339.442 530.745 372.286 540.717 404.525 532.079C436.767 523.441 460.223 498.384 468.313 468.315C498.383 460.224 523.44 436.766 532.078 404.526C540.716 372.285 530.747 339.443 508.749 317.402V317.399ZM470.899 244.776C486.892 260.77 493.488 282.601 490.687 303.412L415.577 260.046C412.411 258.218 408.509 258.218 405.345 260.046L317.401 310.82V277.526C317.401 275.191 318.652 273.005 320.676 271.837L387.644 233.174C414.178 218.353 448.346 222.223 470.901 244.776H470.899ZM357.837 311.144L398.275 334.491V381.185L357.837 404.532L317.398 381.185V334.491L357.837 311.144ZM264.776 269.693C265.207 239.305 285.644 211.649 316.453 203.393C338.3 197.54 360.505 202.744 377.127 215.573L302.014 258.937C298.848 260.764 296.898 264.144 296.898 267.798V369.346L268.065 352.699C266.043 351.531 264.776 349.353 264.776 347.017V269.691V269.693ZM203.391 316.454C209.244 294.608 224.854 277.978 244.276 269.999V356.73C244.276 360.384 246.226 363.763 249.392 365.591L337.337 416.365L308.503 433.013C306.481 434.181 303.961 434.188 301.939 433.02L234.971 394.357C208.868 378.789 195.138 347.261 203.391 316.454ZM244.775 470.9C228.781 454.906 222.186 433.075 224.986 412.264L300.096 455.63C303.263 457.457 307.164 457.457 310.328 455.63L398.273 404.856V438.149C398.273 440.485 397.022 442.671 394.997 443.839L328.029 482.502C301.495 497.322 267.327 493.452 244.772 470.9H244.775ZM450.897 445.982C450.466 476.371 430.029 504.027 399.22 512.283C377.373 518.136 355.168 512.932 338.547 500.102L413.659 456.738C416.826 454.911 418.775 451.532 418.775 447.877V346.329L447.609 362.977C449.631 364.145 450.897 366.323 450.897 368.659V445.985V445.982ZM512.282 399.221C506.429 421.068 490.819 437.697 471.397 445.676V358.946C471.397 355.292 469.448 351.912 466.281 350.085L378.336 299.311L407.17 282.663C409.192 281.495 411.712 281.487 413.734 282.655L480.702 321.318C506.805 336.887 520.536 368.415 512.282 399.221Z" fill="black"/>
+</svg>
+  jumb   )jumdcbor  Ä  ™ 8õqc2pa.actions.v2    „cbor¢gactionsÅ§factionlc2pa.createdqdigitalSourceTypexFhttp://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMediamsoftwareAgent¢dnameggpt-5-6gversionggpt-5-6dwhenx2026-09-03T18:50:19.524048ZrallActionsIncludedÙ   ¶jumb   (jumdcbor  Ä  ™ 8õqc2pa.hash.data    vcbor•jexclusionsÅ¢estart `^flength^⁄dnamenjumbf manifestcalgfsha256dhashX $.A⁄D“u»£!/:P/√Ä`ñtœò;%õä}ŸLcpad@  âjumb   'jumdc2cl  Ä  ™ 8õqc2pa.claim.v2   Zcbor¶jinstanceIDx,xmp:iid:99b4b6df-c167-4c8d-8b7d-60306917d95ftclaim_generator_info£dnamegChatGPTdicon¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„ÒkspecVersione2.2.0isignaturexMself#jumbf=/c2pa/urn:c2pa:36a28d48-44a8-4fe9-8ddf-7cb4b54d4204/c2pa.signaturercreated_assertionsÉ¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„Ò¢curlx*self#jumbf=c2pa.assertions/c2pa.actions.v2dhashX õíæÖ$ùJïˇ	/:~PŒµ—	xÒ,LHÓ$Ñ†yC¢curlx)self#jumbf=c2pa.assertions/c2pa.hash.datadhashX r≥q,{Ω’Ÿ¸‹•˚Çràú5@Ks[äWx~‚|hdc:titleiimage.pdfcalgfsha256  P8jumb   (jumdc2cs  Ä  ™ 8õqc2pa.signature   Pcbor“ÑYË¢8$!ÇYà0ÇÑ0Çl†•¸ÈpåÚÄ1ÓDds0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260422155105Z270423155104Z0G10	UUS10U
+OpenAI OpCo, LLC10UOpenAI Media Service0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ù∫jLMóÍÅâ∂—æ^XNr°ôﬂiq|Â!#”Å¢5úL£J<Ôn+øÊdÆ◊ÑKi$ZcœÍv
+ê≤e€|<ç·˛¡3wØ'ﬁ; :¥cáòÕMúø¥3D™T07F∏˝öyDsWU£c|›¨X/ÊzÆﬁ•ò√ìNHZ¯‡|§íK’l∫ ¬*»íæu‘îgµW™jöm00,◊Uaåj“S∂ x^ECûNí£ÄÒØ[—≤Î˛ãÔ∫◊7	ï´d-ô…áö¯ø.–ÁcÄñöy†7ì6£5…H…,òcÈDõ5¨πßSlúhs»
+9ÃIÛ £Çg0Çc0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0o+c0a09+0Ü-http://crt-c2pa.ssl.com/SSL.com-C2PA-I-R1.cer0$+0Ühttp://ocsp-c2pa.ssl.com0U 00
++ÉË^0)U%"0 ++$
++ÉË^0UÛùM‘Àùr¯F
+vG•hOt0Uˇ¿0	+ÉË^
++ÉË^
+03	+ÉË^&$019bc403-5cd7-7669-afe6-fdb17177d4280	*ÜHÜ˜ Ç Ç8óle°7 Ò˘Ìt∫’¶[5ıglœ+fi@Õı¸“rVﬂ ï(Í¯fﬁBC=¯x†h(â≠µÓ¸ı2“å∏_ÁlÄnÎ[|ó[0Á.B∏∆pö˛˛ 	¨5F’†åIEÄ√∫íU«Zùo“Îÿyõñ:ºDê44}ÙA•3ó/.lQR
+m=I∞À«ÜXÃ‹Óû.È∆9∏3\ ⁄Ó W3T.p(J%)Oí|.“˙›g.zËPx9Q∫É:⁄à~ê#êíıbXöÂ¬®sÜû≈ÿqÈÔ\d{ëÓ7/vòxVdÁoB—}íºÖjomdÖÿˇ"ñÌπÔ≤–\Ñ}h]5[K±≈iHyÊhé†ƒaò:L¯¿$yÂ¶h‡Ô˝÷ê÷.-AduV_ìî∂°úä<∂¿ËmÛ≈CÁv,h§ÚÊÀãàïË{*r$Å=!∆cm/%Ä£ô[™)•˝GÍ·˜kÂ˚[P&m+°Ç]1ı›b®|2‹L«•,r0PÄWìÇ‚ËÆ≥ßØY4ÆrÔ*ùÆx¨‚3ÏSµ…ô“(®*7°N´¸Ã~Xõ'mE·¥*úΩ0W°1. .…‚»T€°íOæ$5ò˛/i‹∏M„ﬁ/Ëlı¡ä‚”˛rw”®+‘WóÆáÿ æì∂âYS0ÇO0Ç7†'+c»ÃM-õÑQrlÙú^2QÆﬁ0	*ÜHÜ˜ 0O1&0$USSL.com C2PA RSA Root CA 202510U
+SSL Corporation10	UUS0251222181730Z301221181730Z0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç À:¥Õ∏úÀ)V∏yß¯kˆ˘ÿèr√¶ò≠*A⁄a.GRΩtQæ]ÏzÇ∂¿˚˙Ë'•ãË˛bÛ`Ò_H ssï‰NnÃNz5ﬁX·◊Ç‹“GCwõﬂHàyü£9§YN^‡NGóÚuB◊v=∂§"‹Ì∆o‘rFå÷Q«µ∑zÚì˘#'’ÄPuäp†hÈÁºÑ(|ú*Í)©¿/˛…vFU∞/cÍ}ûÙ∞D§@ﬁ@6\DäTkWHˇªo§’Íé¬◊|ÿºŒiø† MìE;ô.y“œûü)ªFŸxc0ñ3Qú^ìm˙Â4JXx≥)l]|∏uï<ôw!{ÿ¥JÎ⁄Õ«
+÷…¢ﬁÆó≥∂Qñ⁄íõ√≤ªPƒ˛∂§Lï]-íjObÂ‡*˜i†ú’πì ⁄—ª^O∆Ø˘)L–…ÏÎÛ≤qP{v'hë˘Pà∏w5ÿÕ°·◊”)ÁJ∆áTY$¬g≤m	5€∫Œ∏F•‡ã⁄·ßüjŒ`“ƒ˜¡ﬁsyU‡p¥ÔÍÃ«˛vâNf
+ià-Ì√F¢*‰å‘úWF-Xb’ ®˙~¯¬ŸajÀ5]†ì£≤e®/ÌÔòÁ¸~∫HÙ™°q¸ìØÍßNsài’B¿˘ÑíÖOÀT≥=:¯›)ey Cûñ∏áXñ!Ô—ë{ £Ç&0Ç"0Uˇ0ˇ 0Uˇ0)U%"0 ++$
++ÉË^0U9=G‹óèØà{MsÕÂÓ§•*0U 00
++ÉË^0U#0Ä¸*Ju:Ä˙ôcìsWÏæì∞}√{0x+l0j0$+0Ühttp://ocsp-c2pa.ssl.com0B+0Ü6http://crt-c2pa.ssl.com/SSL.com-C2PA-Root-2025-RSA.cer0	*ÜHÜ˜ Ç Œ6˙>Ôñ6-éØUfˇ{+ kVıÀ≠Ω*Å≠•¶–M£>ì‰ìi’‰å®nÊ7T‚%úÏef(<3=¢ö¢ªÕgdJÁæt!°n√´&ƒ;,⁄Uπ˝GN‡çxõ7Éƒt;≈GaÔmAr§€]CS…ñNÂ‡:ﬂ®›.—ØXó÷ÁÙ_r#<kœΩ9´åì®èßvY>·íı˜Ÿ˚Fb´nn‘àF†≥/*j_•N⁄¯‘¸ÃŸ£<©wE
+¡˘òπ9ÀÃ°q¿*Çq”‰ˆ%‚Q!m÷ﬂ‰SçoJ}é^¿∫’wy!ÅzŒÌ˜õé∂≤äBVùèkA*˛kúãÓ£(œ_ÛÈ–d÷Ó¬âKÎíœıØ¬'M∏ë°7%ôÊ˝Ä‹Ùº«7{æ¥-gX/Á√≥ãqÂDz0∂•≤u>[#~;”T¶:π«Ã3’j5zÅv/˛W⁄i¯>?ÔTèã{F√cû˙Ìƒ/pÑ+ˆVÇÙßÀ$◊l^${:Ω©X;i≥úè“ptˇãn&ª√´E«SñúGµ∆F´^ı¸àãh£5Â|jïeµ´Îπˇ∫∏‡õJG≤ŒÏ/â}ÓØúMƒ…Œı2=è˜&4˛"ãzÌ˘^^g_Q[€$V˚—Y°∑ﬁöf	∂—Ü.˙}~ïyõDf|6Öˆı£gsigTst2°itstTokensÅ°cvalYã0Çá	*ÜHÜ˜†Çx0Çt10	`ÜHe 0Åá*ÜHÜ˜	†xv0t
++Éø0010	`ÜHe  «˙7G–3ÛÂb‚óe™Q`Â©9i˙I/æ¬«;∑	 ≈s8úõ°ùW20260903185025.314618Z0Ä_R3UYC††Çf0Çˆ0Ç^†a€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ 0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0260408174626Z370709174626Z0u10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Leaf0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ Í ≈≠î˝˝'ü«xßa ˇ)a*˚°àÕ_®¢óùâ/ãë»º∞ñê=UÇ¡ñé6j≠âiËê€,D2É®
+ÕwÂ5ËÓ®d[˛∏‡éùÁ °(√5›ß7È"˜	Móö¥Ñs¿.|©PG(†¥i∞á)zY˛5B˘ŸiRJ 7ÚhÃÒ-∑Çñ KF\=§Ü∏KEf8¢NM' ï∫uÃNájüt√ $_ƒ~\Æ˛ÛïÌ ëﬂ<ıÜõ*^÷–›…˙»M√…ÑZI,‰8s`R∏LÓ∆Û∑∂ÿ›j©Œ ∫]÷ƒ\5dÚ#S?bée]p+‘…k	ÅERËWÌZF]⁄]vú%yhÉQ§òÑuëròUˇÿ„Cb±Ìig'Aº≈èÚj+ÉIË·-4ª9ØgΩ¥ï»≤ΩEgÕràî_UK,≠ØÌ•Ù$Øw>ÉädQèëå9ñK∞=Æ˙ô°>å=æ6°.ıcµ £x0v0Uˇ0 0Uˇ¿0U%ˇ0
++0U§'TÇ¢äÄ{=≈ÜÕ?pŸ¬ÉôQx0U#0ÄÚ∞«T=#CÖ‹ s–rÄ=∏®0	*ÜHÜ˜ ÇÅ  ˚$OA¿¿ºò≤2 ç ôH5OƒFV~ß>?∂•#˘*H>‡QùE@x¡ªÉNìP…õ'ñhﬂMŒÚˆ“y´ÔÍ¡⁄?ıòYÊpÕâÙÓGã™ÀÏˇå~·FÿëÊú∏‰4Fˇa“x¯}89„RÌ_fËs¿ r;‰®´éÜ*£7!˘;ﬂ{\TÿL«j*KœCt`Äs£…—wØá©˝µ±Ñjnøà*Œö°ö´¢ûÇH7≈cQó€R|og…iB’œı˚≠^ãê‚‡y<.Éjû•Ë%AèÖÌ‰¡†:ç˛ùRPÔáﬁ·dÕU˘! ﬂ∂)Ôü'n—∫4F´J"OÁbw›E#›a-¬1)èƒπ~y´¥W‘¡Ïœ·\{eI∞ÎM´§«'@N¶¥µèœ|√¥Cßv”^0cÓ®Æ5(td´Z5„[/:>N
+a÷0MCõˇN.∆!π>:, W0ujédK¢–	—◊†g&Amg¯pv∏%&V˘ë&'√KI0Ç~0Çf†ç ∆≈≈⁄∞ºÒNï•Íº0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174626Z21260409174626Z0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ âº‘π‚»°æaªﬁ<df~ßæúm”©0&<Ù‡k 9ﬂï4Ì©¢eH€7Ü2ÉéÃ
+J†¿Û4l†¿òÕ+ü•ÙÀ|Ÿ&ﬁ~…M¢Ôc[ëÊˆY®“˙N˘Ÿ8+ZÕ`ZòÅò®◊S∆„÷.H¨CW	ÈîÚG˘lEä`∑˜Æ/^¢5NÖ8Öiü4ù–MÿC=Õ4m¸cì¸”pªJËvËjNfI†Ì¸¯æÔö∑®w¨Ô∑8Ãπ‘*3ƒv÷@wÀ˛«]-@”ﬁã<¿÷@AôÀî?,} kR¸û P∑	GE·#U˙±OoTòïÙ}∫¯h·"z‹äëCã∂.C±b†æ $é.Ôø§—MË∏?1œ&=≈ PÍÚŸ$ dÌ’sû.px™ﬁV<˘‘Ä¢Ë≠Øˆ˚®£\Àh´D€0wÚƒ4tkUm∆á˚Ú2<ûqE˜ÏP˚˛÷1&ª–ƒMa‚B€Ø√+n_+Ê‚∞Ôç\DÕ¿s}è¢ÈΩmÇº%eÑ0iÌ £{0y0Uˇ0ˇ 0Uˇ0U%0
++0UÚ∞«T=#CÖ‹ s–rÄ=∏®0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç íÏ7\ﬁlÎd⁄Æ°	0rÆ‹rı;ºz=÷∆·/ˆÉ3}ËW@NLô™k‘ôŸã€k÷L¯ –Y3”°†8\#àD$˚á·ˆì'º°ÌL_g]ˇ5´1“Ï{‘@C7O¬Ñú∫d»∞¢~ö6¯·–Ç≥PC≤‡UΩÄî»YRNJtﬁ]«EXõ∑˙0™;‹Gº’.,π8c,yZ∑›U≠=BﬂàœÒh˛s ‘Z∑ﬁ$óë¿Ág˛‹¶
+Û•F≥QœçØ_„»∏@∆Ω„˘÷Kq–d]Âd¬K¿^w—=«[ûœ{˝îîÁKQ⁄˚dÙ´5îÒˆæ~+›≤ö=P›P√ñdém´sü(;w–óÌoEO±3._FÎÉ∂©aº◊ÇÆ¯Äo¬„i0Êm|:Dí+ò-Ø‹4¡æ•*HÁá»ﬁ8µ3 „ÑPpÒ≤KﬁçOˆë‹_Ö˙ÒÊ—◊ ßÓ¥üˆ!x)Å„pXwÜ§:KóÉFË⁄¬jv…©À!Eæe±†Ü.ÄºYKMõCm¥◊Ñ‡¸’»aêCéjù√Ò!<Ñ]˛;÷ÿ#9E_q˙2˝†ÄïDµO Â√t˝‚NárÜÙQáΩ‘µ+5lí§;kjù∫˝¿;úv¬’9I⁄„î>Pj◊L‚âaùÔÎœ≈√@npz80ÇÊ0ÇŒ†P;lâå$3,è˜Oé˚}ÇÏ0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174625Z21260409174625Z0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ˆíÈ“∫≠û·¨u®Vÿ™±≥jí_ñyıí∑-$¯ø¿Ø`æ¡öÕyö‹lö˛6ö¡ò§?‰,ù∫••Ps≥
+¬˘ÛƒI/xΩ“ÏºÁ?Ùõ—Ú†a¢,â% Q˘%ú“∆/ÙâƒA˛&”m5ÕÏª5`@®ÖQæˆÓêòÒ*ÿùzkjŸ.ŸcÛÂ\)≈Ü"¡ähÕÎ8û©Pñ[#C˚8ˇB|;:°Q/%…H‹1ˇPrÓ|°wÕoÅaÛ?ønË“±¶6‰k2˚˛w®^õ\››1êLéeˇÅÀAŒ(1S CŒHn}÷d≥)‰¥.:∑TZrVWÛ®j}ÔÊa›e»H	Iô2t
+¢Ã›ì S¨#ΩÇÖ ±ÔæÌ°w Ó:F3¢ûÏØÈ1f¥fo≤âì†~ï!ŒA¯^éÈÕπ¿’3]x––'1œP0rs⁄j¬¿ìœ≠‹dáˆ˚Nàvı>Ôˇí,ôw.ˆ‹ò∂ù	:˝Ù	«è_ZÈ~H	+µäÉÚ[<,Øë¢ùA∑Rh—ø∞¿⁄O`ΩÓ)™Ìáçq\(åçà£%cEÿ¸{aèlFT;\…∞ÇØÉ»±#?ü[Ó¢◊Tµ*SÆªÖ€¶˙óûÏÑârÛz@…∂ÖXG[Ò$a9¢Lﬁÿ∆®"Úûø[L,À £f0d0Uˇ0ˇ0Uˇ0UX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç X¯ÅëòÚla˛»Ü÷[Ñ¶÷æ∏¶]]IÀ∏°)Õ-ù∏X˘Ñâ=<¯o’j¥*¢UígÅô^µT˚öFÄ„Q S¿¡àWﬁÔÇU~„Ù}Î&¸Éˇ!®¡¨ﬁ€ì´Õ–0v:ìùŒ™g9.Ätﬂm~v/ÈÍPAã8=lÂ‡>Ó/€dT6^æbE∂—!¥Ä<åÎ⁄ú÷J©’Te[k—X~¿IáÎÎK_í;î◊öÜˆ°YŒG8¨√∞td—¿R;°±{(k·ió¯(;'ˇÆ§û˜eÀ†ÙÍπΩîŒD‚ò±
+HhÓU©!•`è˛ ÷}—{Ü úÛ®x–∆⁄@.»Å\b®*¡˚VÁyéØÏÂ€”p˛FÃc®dÒ<ÈØ•dº^øÖ-∞Œ„π”§◊RªpãÜù˚.ø
+ˆ“U+#B+C\Ï°Ça?œqÌ∞˜óÈ‰À¬<¸¨w∑∂‹ ¡LÈâ≤≤/√~ídúµÑﬁÃñ˝â∞KµC}“È≠Ü˝Ÿ-üΩ Ó¿¥GV#|HëNgâ {b¡…^UÒˆ∆Q#WoÔáæ Fyæî±» (ùïäà&UfRÔŸK∫®ZÈ¬,≠ü√\BÛ°ı'dyqå
+Zû˝π˘Eyp·jµ7ñéX˝EøT%åÉ=Ÿ&3#–Xw¶∏1Çh0Çd0Åì0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	`ÜHe †Ç%0	*ÜHÜ˜	1*ÜHÜ˜	0/	*ÜHÜ˜	1" ÿ»ˆ]ÅYÅò(¯û∆q‘-eH¶êŸªz ∂“æuØÏ0Å’*ÜHÜ˜	/1Å≈0Å¬0Åø0Åº ΩOπ≤êLÅ6gànÔA·m˛Ÿ"ùø[íJ–¢ƒ`F"z0Åó0§}0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ ÇÄãæD7JjÒÿ—R´4U¥j[ÊfËΩU$∏äaÊ®íõÇﬁÑá	^)aü˚óÑÇRŒ™g™\ºJ?Nr≤ÙŒ˜w„=¡i¯Õv ≥›DcçTÌã0[∆VA¢YÍná£ïıjm~≤yì,Ç∏W∆∑˘Õ%Xâ|§∑èhÄ]-<ø√m[ïæÇGˇÎ$A
+"É.w™!
+yî!◊»¶WC/mL!˜dDnÍ-mµ˙çÍA√`RπBˆ¥n!a<?‹Ìu€∫bg"5›√´èûCAtwÂ–w<or»ÅÉr#Ü"®π∆ﬁùHÁ“ñm¥[Ì≈!4±Èÿ‚Y!“˛ôMdw›¸ˆ:C}àI4fÑŒœ—aŒï∞#^”1ÕM}ySn©à ∂"
+€≈˝¢¬–˛¬síGAnÓê‡≤¢*”◊Ê≈e∫Ü6„ﬁUVk^eâ•1ªå_r¢ïGˇ‡&Zæ>º+Ÿò≈XÔ’ñ©8A//C‡Ou[*…vw/erVals°hocspValsÅY◊0Ç”
+ †ÇÃ0Ç»	+0Çπ0Çµ0ÅÈ¢=™™xé˙ˆL˙^j—@MÂTÚÆ20260903180358Z0Åò0Åï0I0	+ ﬂÇ7S^Sÿ3±‡=$5ÒuÊ·
+9=G‹óèØà{MsÕÂÓ§•*•¸ÈpåÚÄ1ÓDdsÄ 20260903180358Z†20260910180357Z°"0 0	+020160905180358Z°#0!0	+0Æ$ã»ÏÄ2tOÒi˙î?0	*ÜHÜ˜ ÇÅ àç.bªmõål∏4M≈
+f¶ü*vÙl…ƒTfµXGßë7Ô^ƒﬂ÷[r“"∞8Ñ\43˛˙ì‘|≠F˝ô‘¬·â®gØŒ⁄u"äUÙñ%$Ìåº÷y˛$Yã÷%
+á£7b>Œ‚\aÔm+0»àAïﬂ)≈˛&.§@√Ü˘√¶^Öt?Ω U9uó’—kú˝0≠ûÅﬁ8[7Ç^üéóÿP6)©ä]Â_‘üÈù«@9v¨ôÎ™©—)?ƒÒB©À∂$5}∂òá 3u¨oí∂í∑ﬁ$Êá?‚™÷v˘9 ∂ô◊q8;.◊ÚÍÙûC∆:éfó¸ö%AC™uï¶?Apπ˝‚æ„â˜Næï(J+|'Ú˜«ÖèÍΩ·ñÏí£ﬂˇä∆ÜXcªB¡hZó@ﬁñ"2˝∂’µ’ÀJµo–gïÖ∏
+l[õá≥ıÿüs`5q£J˛UbÄ¸w˜D¬WˆIÍX¨ÿ˜›h∏¶È∞á∫D.Ìb1i	”◊†Ç10Ç-0Ç)0Ç†ZJ≤?–(∆˛K≥?n=„'∫0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260102201415Z270102201414Z0M10	UUS10U
+SSL Corp1+0)U"SSL.com C2PA ICA R1 OCSP Responder0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ ¢PìAÊJKﬁõ¶ït&X<ÏR¸ªî2Õ√∆Pﬂ–Ωú∆npã#ó◊åÓÃ|VÓgæ˘ö¿í∞Î∫•3ˇmiêÉ/à-Ì∞K],õπ∏e$cÓ∞$`ç
+Ë¯y∆”a5[åóXü≥å\ÿ‰∆¶–C≥ß”TŸlà˜ß∏ƒÿn˝1(ﬁ	.ê'ısŸw¶’Pö ŸºÀ2≈Fπ¸¢UMÓ†õ¨hj¡?8*zÿ”]∫¥≥ÎùU)ÓÏ“7üÆ≈6©ú∞∑ﬁD*ãËPß Äy{%œŸ9ÚûEõw∫x	†¶N{@é1˝Í"háÄƒÇ!‰OZÚÛà§Kâ*~L$&©†ö…ù|ÓkbÖ"2Ó÷‹+“ﬂ÷F4v†Ç(xéæ*›‰÷j*w€tz5'¶á¡∏:SÅ™ö÷+ìØ„õ∑e“&0J•æ ÒãZ4¶°“Ör8X9ƒÏ>2Ñﬂ7y÷0”7xÊËÕíÈn+nÏ0Î28.©<“-Â £Åá0ÅÑ0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0	+0 0U%0
++	0U=™™xé˙ˆL˙^j—@MÂTÚÆ0UˇÄ0	*ÜHÜ˜ Ç ªs¶UÑ£hPÎÒ†l◊…)Ñù>®/Ì
+ª†Î´À¡∏Ü∑0%HmÛ·Ω°M(“+e`D‹∂ç´U?◊›Ö˛ó[$,Ï≠KKÙª	˙û∞‡∞∞˝éDr¥èj›cËÎ≤÷‘«ÒÁãﬂﬂlƒ	¢˝=sX¡()¢k`i0);U¥å©§ê©p>nrƒv0iÇO%¥OUŒÈHœ_ãÕVkﬂ‹ûÜ65é¡7ïs∏Ì∂®DæˆóﬁIºè°>r'–=!|R\P©«‹©˚˜m∞*&†îﬂdÖåß=ä:1të!·ÏJﬂÖhŒa©§k23”hÊ…ø≥¸ˇïÒ◊¬eJlNG˛®`îwhAŒN(D•∆òá®5Úéf™$Ωj¡Æ kﬁt£w&eß•¬(%˝>©ÂIπˇthrGP˚tö"hÖåøÉ úŸ„m¢<\«N•v“ˇ¬™≈Æ¥¸*Bl'®¥÷9ÀôXÀ√±¸6Ë5‘À^…òòŒËÇãÌXa∫aë—©z…>X‡¸îHLtÊœ‘|≥ÚË#KË0hª'Ïπˆ	∂ÌyìÂ
+Çµ«Á.∆Ökì•AY)î∫X”oñMüQ3ë?¿∏Pœµ∫`àÈ7
+Lñü#x⁄¡ é≈ñ>l˙_ 7Vﬂ	!òíy˜¿ø„Œíß´,W=A‘â‡?cpadY&u                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ˆY /FbíâÎCI,⁄^08ÿKVj‘‘ŸfE©64∏`‰+Í˝™%hèÄ¶ÁR>›ébÛ©ìŸô˝Õ ¯ëœñ±ÔœÍTtèYâÁ»‡DÛò0Ω¢@”xÈJyÊî2Lã£!˛Ø˛Á€ÚÅ»˝∫∂£&-ØÄ.zaˆiåÛàba„Ìlë¬å%AØ /ŒÙÑ†2RnU—ƒG,*GÖ0m˛ä9ñ2Â£¢	õÿ,î‡¨`vzIÍÓ)G!x∫)„ˇ˚”¢bnÙJÃßNæAÙìg6’sÂ©CÃ¯ïÂ$∞ô€Öb2>}Uöh/q)–cëùbÀ›ª
+endstream
+endobj
+47 0 obj
+<< /AFRelationship /C2PA_Manifest /Desc (Content Credentials) /F (Content Credentials) /EF << /F 46 0 R >> /Subtype (application/c2pa) /Type /FileSpec /UF (Content Credentials) >>
+endobj
+xref
+3 1
+0000089984 00001 n 
+46 2
+0000090119 00000 n 
+0000114506 00000 n 
+trailer
+<< /Size 48 /Root 3 1 R /Prev 88985 >>
+startxref
+114702
+%%EOF
